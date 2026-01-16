@@ -1,0 +1,9 @@
+# Playback debug log
+# Paste the relevant lines here (from just before trigger press to first macro event).
+# Include lines with: TOKEN_PRESS, DEBUG: Suppressed release, DEBUG: Playback requested, DEBUG: MacroPlayer starting first event, TOKEN_RELEASE, etc.
+# Example:
+# 2025-12-30T23:21:52.1199242+01:00 DEBUG: Hold decision for L2: False
+# 2025-12-30T23:21:52.2869131+01:00 DEBUG: Suppressed release for trigger L2
+# 2025-12-30T23:21:52.2869131+01:00 DEBUG: Playback requested for L2 at 2025-12-30T23:21:52.2869131Z
+# 2025-12-30T23:21:52.2869131+01:00 DEBUG: MacroPlayer starting first event at 2025-12-30T23:21:52.2869131Z
+# TOKEN_PRESS: DP_UP
